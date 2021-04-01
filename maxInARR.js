@@ -1,0 +1,1 @@
+Math.max(...arr.map(i => i.id))
