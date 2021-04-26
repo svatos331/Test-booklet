@@ -14,7 +14,6 @@ console.log(some(arrayForSome, (el) => el === "one2")) // false
 
 // map
 const arrayForMap = [2, 3, 7, 9, 1, 4, 5, 8];
-
 const some = (arr, fn) => {
     let finishArray = []
     for (const element of arr) {

@@ -1,4 +1,4 @@
-
+// запрос на сервер
 async function fetchAsinc(){ // it`s Promise
     console.log(`starts request`)
 

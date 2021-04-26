@@ -1,3 +1,4 @@
+//  Приватные методы добавленные в 2021 году
 class Person{
     birthYear = 1995;
 
@@ -15,8 +16,5 @@ class Person{
     }
 
 }
-
-
-
 
 let person = new Person();

@@ -7,3 +7,6 @@ const filter = (arr, fn) => {
   }
   return finishArray;
 };
+
+// start function: 
+filter(arrayFiltered, v=>{ console.log(v )})

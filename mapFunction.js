@@ -6,3 +6,7 @@ const mapFunction = (arr, fn) => {
     }
     return finishArray;
 };
+
+
+// start function:
+mapFunction(arrayForMap, v=>{console.log(v)})
